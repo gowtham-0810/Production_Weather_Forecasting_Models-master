@@ -89,7 +89,7 @@ This project consists of two distinct machine learning experiments designed to s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sidsuresh/Production_Weather_Forecasting_Models.git
+git clone https://github.com/gowtham-0810/Production_Weather_Forecasting_Models-master.git
 cd 36120_25SP_AT2/
 ```
 
